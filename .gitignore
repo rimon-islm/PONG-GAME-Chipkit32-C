@@ -1,0 +1,4 @@
+# Igonore O,P,JSON files
+*.o
+*.p
+*.json
